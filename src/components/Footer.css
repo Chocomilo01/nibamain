@@ -1,0 +1,77 @@
+.afooter {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.9); 
+  color: white;
+  padding: 40px 0; 
+  margin-top: auto;
+}
+
+.afooter h5 {
+  font-size: 18px; 
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-align: center; 
+}
+
+.afooter p {
+  text-align: center;
+  margin: 0;
+  font-size: 14px;
+}
+
+.afooter .resources-section, 
+.afooter .contact-section {
+  margin-bottom: 20px; 
+  text-align: center; 
+}
+
+.afooter .resources-section ul, 
+.afooter .contact-section ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+.afooter .resources-section ul li,
+.afooter .contact-section ul li {
+  margin-bottom: 10px;
+}
+
+.afooter .resources-section ul li a,
+.afooter .contact-section ul li a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.afooter .resources-section ul li a:hover,
+.afooter .contact-section ul li a:hover {
+  text-decoration: underline;
+}
+
+.afooter .social-media {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.afooter .social-media ul {
+  list-style: none;
+  padding: 0;
+}
+
+.afooter .social-media ul li {
+  display: inline;
+  margin-right: 15px;
+}
+
+.afooter .social-media ul li a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.afooter .social-media ul li a:hover {
+  text-decoration: underline;
+}
